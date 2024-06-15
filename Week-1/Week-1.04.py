@@ -4,7 +4,7 @@ Alfred buys an old scooter for Rs. X and spends Rs. Y on its repairs. If he sell
 
 
 
-Input Format:
+Input Format: 
 
 The first line contains the Rs X
 
