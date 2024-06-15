@@ -6,7 +6,7 @@ Sample Input
 
 3
 
-Sample Output:
+Sample Output: 
 
 2
 
