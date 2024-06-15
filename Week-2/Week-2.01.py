@@ -4,7 +4,7 @@ An online retailer sells two products: widgets and gizmos. Each widget weighs 75
 
 
 
-Sample Input
+Sample Input 
 
 10
 
