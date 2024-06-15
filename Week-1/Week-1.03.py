@@ -6,7 +6,7 @@ Write a simple python program to find the square root of a given floating point 
 
 
 
-Sample Input:
+Sample Input: 
 
 8.00
 
